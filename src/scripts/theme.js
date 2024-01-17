@@ -22,3 +22,5 @@ const themeAnalysis = () => {
 }
 
 themeAnalysis();
+
+export {html, themeButton, darkMode, themeChange, themeAnalysis}

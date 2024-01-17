@@ -1,4 +1,4 @@
-const albumList = [
+export const albumList = [
   {
     id: 1,
     title: "Acabou o Chorare",
@@ -136,7 +136,7 @@ const albumList = [
   },
 ];
 
-const genresList = [
+export const genresList = [
   "Todos",
   "Pop",
   "MPB",

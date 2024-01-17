@@ -2,7 +2,7 @@
   Não altere a função abaixo!
 */
 
-function handleCustomInputRange() {
+export function handleCustomInputRange() {
   const inputRange = document.querySelector(".price__input-range");
 
   inputRange.addEventListener("input", function (event) {
