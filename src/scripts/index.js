@@ -40,6 +40,7 @@ const createAlbumCard = (albumData) => {
 
   // CARD
   card.classList.add("album__item");
+  card.classList.add("slide");
 
   // COVER IMG
   albumCoverContainer.classList.add("album__cover-container");
