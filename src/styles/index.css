@@ -131,7 +131,7 @@
   flex-direction: column;
   gap: 1.25rem;
   border-radius: 0.25rem;
-  transition: background-color ease-in-out 0.7s;
+  transition: width ease-in-out 0.7s;
 }
 
 .album__item:hover {
